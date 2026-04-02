@@ -12,7 +12,7 @@
 </p>
 
 <details>
-<summary>✨ Click here to expand magic</summary>
+<summary> <H2>✨ Click here to expand magic </H2></summary>
 
 <table width="100%">
 <tr>
